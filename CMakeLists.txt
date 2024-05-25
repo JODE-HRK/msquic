@@ -1,4 +1,5 @@
 # Copyright (c) Microsoft Corporation.
+# Copyright (c) Microsoft Corporation.
 # Licensed under the MIT License.
 
 if ("${CMAKE_HOST_SYSTEM_NAME}" STREQUAL "Windows")
